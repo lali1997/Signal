@@ -1,0 +1,361 @@
+{
+  "meta": {
+    "name": "Lalit",
+    "goal_weight": 60,
+    "start_date": "05 Nov 2025",
+    "sound": 1,
+    "log_gap_warn": 3
+  },
+  "entries": [
+    {
+      "date": "05 Nov 2025",
+      "weight": 69.5,
+      "steps": 4826
+    },
+    {
+      "date": "15 Nov 2025",
+      "weight": 69.0,
+      "steps": 12294
+    },
+    {
+      "date": "05 Dec 2025",
+      "weight": 68.5,
+      "steps": 10816
+    },
+    {
+      "date": "15 Dec 2025",
+      "weight": 68.0,
+      "steps": 1986
+    },
+    {
+      "date": "23 Dec 2025",
+      "weight": 67.0,
+      "steps": 13033
+    },
+    {
+      "date": "27 Dec 2025",
+      "weight": 66.5,
+      "steps": 10719
+    },
+    {
+      "date": "28 Dec 2025",
+      "weight": 65.0,
+      "steps": 880
+    },
+    {
+      "date": "29 Dec 2025",
+      "weight": 65.5,
+      "steps": 2255
+    },
+    {
+      "date": "30 Dec 2025",
+      "weight": 65.5,
+      "steps": 11712
+    },
+    {
+      "date": "31 Dec 2025",
+      "weight": 64.9,
+      "steps": 644
+    },
+    {
+      "date": "02 Jan 2026",
+      "weight": 65.7,
+      "steps": 59
+    },
+    {
+      "date": "03 Jan 2026",
+      "weight": 66.2,
+      "steps": 123
+    },
+    {
+      "date": "05 Jan 2026",
+      "weight": 65.8,
+      "steps": 997
+    },
+    {
+      "date": "06 Jan 2026",
+      "weight": 65.3,
+      "steps": 2995
+    },
+    {
+      "date": "07 Jan 2026",
+      "weight": 65.4,
+      "steps": 3843
+    },
+    {
+      "date": "09 Jan 2026",
+      "weight": 64.7,
+      "steps": 9272
+    },
+    {
+      "date": "10 Jan 2026",
+      "weight": 64.7,
+      "steps": 6079
+    },
+    {
+      "date": "11 Jan 2026",
+      "weight": 64.7,
+      "steps": 116
+    },
+    {
+      "date": "12 Jan 2026",
+      "weight": 64.7,
+      "steps": 9705
+    },
+    {
+      "date": "15 Jan 2026",
+      "weight": 65.1,
+      "steps": 5400
+    },
+    {
+      "date": "16 Jan 2026",
+      "weight": 64.25,
+      "steps": 8069
+    },
+    {
+      "date": "18 Jan 2026",
+      "weight": 64.25,
+      "steps": 5114
+    },
+    {
+      "date": "19 Jan 2026",
+      "weight": 64.8,
+      "steps": 8974
+    },
+    {
+      "date": "20 Jan 2026",
+      "weight": 64.8,
+      "steps": 10778
+    },
+    {
+      "date": "21 Jan 2026",
+      "weight": 64.4,
+      "steps": 13602
+    },
+    {
+      "date": "22 Jan 2026",
+      "weight": 64.7,
+      "steps": 11650
+    },
+    {
+      "date": "23 Jan 2026",
+      "weight": 64.4,
+      "steps": 10333
+    },
+    {
+      "date": "25 Jan 2026",
+      "weight": 65.25,
+      "steps": 5959
+    },
+    {
+      "date": "28 Jan 2026",
+      "weight": 64.65,
+      "steps": 2788
+    },
+    {
+      "date": "30 Jan 2026",
+      "weight": 64.85,
+      "steps": 4070
+    },
+    {
+      "date": "01 Feb 2026",
+      "weight": 64.4,
+      "steps": 772
+    },
+    {
+      "date": "02 Feb 2026",
+      "weight": 63.7,
+      "steps": 1736
+    },
+    {
+      "date": "03 Feb 2026",
+      "weight": 63.7,
+      "steps": 3877
+    },
+    {
+      "date": "04 Feb 2026",
+      "weight": 63.7,
+      "steps": 5373
+    },
+    {
+      "date": "07 Feb 2026",
+      "weight": 63.6,
+      "steps": 1438
+    },
+    {
+      "date": "09 Feb 2026",
+      "weight": 63.6,
+      "steps": 2729
+    },
+    {
+      "date": "10 Feb 2026",
+      "weight": 63.45,
+      "steps": 2971
+    },
+    {
+      "date": "12 Feb 2026",
+      "weight": 63.65,
+      "steps": 5515
+    },
+    {
+      "date": "13 Feb 2026",
+      "weight": 63.35,
+      "steps": 3077
+    },
+    {
+      "date": "14 Feb 2026",
+      "weight": 63.8,
+      "steps": 1584
+    },
+    {
+      "date": "15 Feb 2026",
+      "weight": 63.8,
+      "steps": 2373
+    },
+    {
+      "date": "16 Feb 2026",
+      "weight": 63.75,
+      "steps": 2621
+    },
+    {
+      "date": "17 Feb 2026",
+      "weight": 63.8,
+      "steps": 7114
+    },
+    {
+      "date": "18 Feb 2026",
+      "weight": 63.55,
+      "steps": 1841
+    },
+    {
+      "date": "20 Feb 2026",
+      "weight": 63.3,
+      "steps": 3741
+    },
+    {
+      "date": "21 Feb 2026",
+      "weight": 63.3,
+      "steps": 2538
+    },
+    {
+      "date": "23 Feb 2026",
+      "weight": 64.1,
+      "steps": 1875
+    },
+    {
+      "date": "25 Feb 2026",
+      "weight": 63.41,
+      "steps": 4102
+    },
+    {
+      "date": "26 Feb 2026",
+      "weight": 64.15,
+      "steps": 15290
+    },
+    {
+      "date": "27 Feb 2026",
+      "weight": 63.45,
+      "steps": 1014
+    },
+    {
+      "date": "28 Feb 2026",
+      "weight": 63.45,
+      "steps": 5127
+    },
+    {
+      "date": "01 Mar 2026",
+      "weight": 63.4,
+      "steps": 4112
+    },
+    {
+      "date": "02 Mar 2026",
+      "weight": 62.75,
+      "steps": 2986
+    },
+    {
+      "date": "03 Mar 2026",
+      "weight": 63.0,
+      "steps": 1673
+    },
+    {
+      "date": "04 Mar 2026",
+      "weight": 63.95,
+      "steps": 1376
+    },
+    {
+      "date": "05 Mar 2026",
+      "weight": 63.0,
+      "steps": 12303
+    },
+    {
+      "date": "06 Mar 2026",
+      "weight": 63.35,
+      "steps": 6600
+    },
+    {
+      "date": "07 Mar 2026",
+      "weight": 63.35,
+      "steps": 8064
+    },
+    {
+      "date": "08 Mar 2026",
+      "weight": 63.35,
+      "steps": 8351
+    },
+    {
+      "date": "09 Mar 2026",
+      "weight": 63.35,
+      "steps": 2312
+    },
+    {
+      "date": "10 Mar 2026",
+      "weight": 62.75,
+      "steps": 2744
+    },
+    {
+      "date": "11 Mar 2026",
+      "weight": 63.8,
+      "steps": 2859
+    },
+    {
+      "date": "12 Mar 2026",
+      "weight": 63.8,
+      "steps": 11954
+    },
+    {
+      "date": "13 Mar 2026",
+      "weight": 63.45,
+      "steps": 5264
+    },
+    {
+      "date": "14 Mar 2026",
+      "weight": 63.15,
+      "steps": 6929
+    },
+    {
+      "date": "15 Mar 2026",
+      "weight": 63.45,
+      "steps": 6987
+    },
+    {
+      "date": "16 Mar 2026",
+      "weight": 63.45,
+      "steps": 11305
+    },
+    {
+      "date": "17 Mar 2026",
+      "weight": 63.15,
+      "steps": 13031
+    },
+    {
+      "date": "18 Mar 2026",
+      "weight": 63.15,
+      "steps":  4584
+    },
+    {
+      "date": "19 Mar 2026",
+      "weight": 62.7,
+      "steps":  4268
+    }
+  ]
+}
